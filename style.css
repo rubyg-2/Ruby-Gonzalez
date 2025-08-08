@@ -736,3 +736,16 @@ button[type="submit"] {
     list-style-type: disc;
     padding-left: 1.5rem;
 }
+
+.github-btn img {
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4a90e2;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+}
+
